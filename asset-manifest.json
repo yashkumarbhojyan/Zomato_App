@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zomato_App/static/css/main.7238ade1.css",
+    "main.js": "/Zomato_App/static/js/main.6c7d121c.js",
+    "static/js/787.9c166d28.chunk.js": "/Zomato_App/static/js/787.9c166d28.chunk.js",
+    "index.html": "/Zomato_App/index.html",
+    "main.7238ade1.css.map": "/Zomato_App/static/css/main.7238ade1.css.map",
+    "main.6c7d121c.js.map": "/Zomato_App/static/js/main.6c7d121c.js.map",
+    "787.9c166d28.chunk.js.map": "/Zomato_App/static/js/787.9c166d28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7238ade1.css",
+    "static/js/main.6c7d121c.js"
+  ]
+}
